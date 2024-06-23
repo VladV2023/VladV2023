@@ -1,4 +1,4 @@
-Hi, I’m @VladV2023
-I am interested in coding, and working on my own small projects.The language I use is Python.
-I am currently looking for internships related to Software Engineering or Full Stack Development.
+Hi, I’m Vlad.
+I am interested in learning coding by exposing myself to new and fun challenges. My go-to coding language of choice is Python.
+I am currently looking for internships/part-time/full-time positions such as IT Help Desk/Software Engineer/Full Stack Developer.
 You can reach me at: vladvarian2016@gmail.com
